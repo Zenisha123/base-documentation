@@ -5,7 +5,7 @@ How to set up a design in Inkscape(wood):
 * Copy and paste your choice of design.  
 * Adjust the size and make sure to lock the size in order to change the size consistently.
 
-When you import an image into the laser cutting  software and it appears pixelated, you can convert it into a vector graphic without the dots or keep it the same. To do that, you need to
+When you import an image into the laser cutting  software and it appears pixelated, you can convert it into a vector graphic without the dots or keep it the same. To do that, you need to select the image, go to the top menu and click Path > Trace Bitmap, adjust the settings, and click Apply.
 
 **Engraving:**  
 Then, you could change the setting for the parts you want to engrave.  
@@ -31,12 +31,16 @@ Speed: 5-15
 ✂️ *Cutting process:*  
 Focus the lens on the area of the material you are cutting and click auto-focus.  
 Then, click the print button on the machine  
+
 <img width="350" alt="1" src="https://github.com/user-attachments/assets/d75e2618-8511-4fac-a51f-a4d3106b4177" /><br>  
 <i>Laser Cutter cutting our projects!<i>
 
 🧹 *Cleaning Process(Once in a while):*  
 Pick in the debris from the board.  
-Clean the lens using some lens cleaner  
+Clean the lens using some lens cleaner 
+
+🍀 ***Final Project***  
+My project was a drawing of shinobu, which I engraved in a plywood with a rectangular border alongside a hole to turn it into a keychain and rounded edges. Since it was our first time, a lot of the work was done by our tuitor, therefore, everything went smoothly. My dsign was pretty intricate, therefore, it turned out very good 
 
 
 
